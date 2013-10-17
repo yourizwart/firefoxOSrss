@@ -1,16 +1,16 @@
 {
   "version": "0.1",
-  "name": "Open Web App",
+  "name": "RSS-reader",
   "description": "Ratsbox RSS reader",
-  "launch_path": "index.html",
+  "launch_path": "/rss/index.html",
   "icons": {
-    "16": "app-icons/icon-16.png",
-    "48": "app-icons/icon-48.png",
-    "128": "app-icons/icon-128.png"
+    "60": "rss/app-icons/icon-60.png",
+    "90": "rss/app-icons/icon-90.png",
+    "120": "rss/app-icons/icon-120.png",
+    "128": "rss/app-icons/icon-128.png"
   },
   "developer": {
-    "name": "Youri van der Zwart",
-    "url": "http://ratsbox.com"
+    "name": "Youri van der Zwart"
   },
   "default_locale": "en"
 }
